@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             string name = "Akbar";
+            string surname = "Jafarli";
         }
     }
 }
